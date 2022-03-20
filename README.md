@@ -15,6 +15,8 @@ I am a small programmer who likes to make bots on discord, I have been programmi
 
 - Discord: Cone#6586
 
+[![ConneM Github Stats](https://github-readme-stats.vercel.app/api?username=ConneM)](https://github.com/anuraghazra/github-readme-status)
+
 <!--
 **ConneM/ConneM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
