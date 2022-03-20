@@ -2,14 +2,14 @@
 
 ```js
 const ConneM = {
-  code: [JavaScript]
+  code: [JavaScript],
   pronoun: [Cone]
 }
 ```
 
 🐒 About 
 
-I am a small programmer who likes to make bots on discord, I have been programming for a short time approximately 3 months, I am currently a staff at [PandaCommunity] (https://discord.gg/panda-community)
+I am a small programmer who likes to make bots on discord, I have been programming for a short time approximately 3 months, I am currently a staff at [PandaCommunity](https://discord.gg/panda-community)
 
 <!--
 **ConneM/ConneM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
