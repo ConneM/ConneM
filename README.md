@@ -1,17 +1,16 @@
 ### Hi, I'm ConneM 👌
 
-🥱 About 
-
 ```js
 const Discord = require("discord.js")
 
 module.exports = {
-  name: "About"
+  name: "🐒About"
   
   run: async(client,message,args) => {
     message.channel.send("
     
-    
+    I am a small programmer who likes to make bots on discord, I have been programming for a short time approximately 3 months, I am currently a 
+    staff at [PandaCommunity] (https://discord.gg/panda-community)
 
    ")
   }
