@@ -2,6 +2,7 @@
 
 🥱 About 
 
+```js
 const Discord = require("discord.js")
 
 module.exports = {
@@ -15,6 +16,7 @@ module.exports = {
    ")
   }
 }
+```
 
 <!--
 **ConneM/ConneM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
