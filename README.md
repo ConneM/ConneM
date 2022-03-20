@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi, I'm ConneM 👌
+
+🥱 About 
+
+const Discord = require("discord.js")
+
+module.exports = {
+  name: "About"
+  
+  run: async(client,message,args) => {
+    message.channel.send("
+    
+    
+
+   ")
+  }
+}
 
 <!--
 **ConneM/ConneM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
