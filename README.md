@@ -9,7 +9,7 @@ const ConneM = {
 
 🙍‍♂️ Contact Me
 
-- Discord: Cone#6586
+- Discord: cone.cl
 
 [![ConneM Github Stats](https://github-readme-stats.vercel.app/api?username=ConneM)](https://github.com/anuraghazra/github-readme-status)
 
